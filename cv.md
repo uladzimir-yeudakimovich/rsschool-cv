@@ -12,7 +12,7 @@ Software Engineer (JavaScript)
 
 **General information**
 
-I have 3 years&#39; experience in Frontend development using JavaScript and Angular. I have thorough understanding of whole app development process, from requirements review to submission to production. I tend to apply the latest development standards into development process. I make it my goal to create a useable and intuitive user interface experience.My technology stack covers JavaScript, Angular, AngularJS, React, HTML, CSS, Sass, Less, NodeJS, ExpressJS,AWS, Serverless, MongoDB, jQuery,Responsive UI, Git and Photoshop. I am a citizen of the Republic of Belarus, but I am currently in Warsaw on a D work visa.
+I have 3 years&#39; experience in Frontend development using JavaScript and Angular. I have thorough understanding of whole app development process, from requirements review to submission to production. I tend to apply the latest development standards into development process. I make it my goal to create a useable and intuitive user interface experience.My technology stack covers JavaScript, Angular, AngularJS, React, HTML, CSS, Sass, Less, NodeJS, ExpressJS,AWS, Serverless, MongoDB, jQuery,Responsive UI, Git and Photoshop.
 
 **Employment History**
 
