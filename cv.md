@@ -18,21 +18,21 @@ I have 3 years&#39; experience in Frontend development using JavaScript and Angu
 
 **Lifetech**
 
+*Middle Frontend Developer*
+
 02.2019 - present
 
 **OCSICO**
+
+*Junior Frontend Developer*
 
 08.2018 - 02.2019
 
 **Freelance**
 
+*Junior Frontend Developer*
+
 09.2017 – 08.2018
-
-**Middle Frontend Developer**
-
-**Junior Frontend Developer**
-
-**Junior Frontend Developer**
 
 **Projects**
 
