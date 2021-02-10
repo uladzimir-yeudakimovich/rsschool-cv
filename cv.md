@@ -28,11 +28,11 @@ I have 3 years&#39; experience in Frontend development using JavaScript and Angu
 
 09.2017 – 08.2018
 
-**Middle Front**** e ****nd Developer**
+**Middle Frontend Developer**
 
-**Junior**  **Front**** e ****nd Developer**
+**Junior Frontend Developer**
 
-**Junior**  **Front**** e ****nd Developer**
+**Junior Frontend Developer**
 
 **Projects**
 
