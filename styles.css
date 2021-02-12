@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'my-icon';
+  src: url('fonts/my-icon.eot?wmbfzs');
+  src: url('fonts/my-icon.eot?wmbfzs#iefix') format('embedded-opentype'),
+       url('fonts/my-icon.woff2') format('woff2'),
+       url('fonts/my-icon.ttf?wmbfzs') format('truetype'),
+       url('fonts/my-icon.woff?wmbfzs') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  padding: 15px;
+  margin: 15px;
+  font: normal 16px "Roboto", sans-serif;
+  color: white;
+  background: slategrey url(images/bg-contours.svg);
+}
+
+h1, h2, h3, header {
+  text-align: center;
+}
+
+header > p, ul {
+  text-align: justify;
+}
+
+header > ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+div {
+  margin: 20px 0;
+}
+
+p, ul, li {
+  margin: 8px 0;
+}
+
+a {
+  text-decoration: none;
+  color: papayawhip;
+}
+
+span {
+  padding-right: 10px;
+  font-family: 'my-icon';
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.avatar {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 50%;
+}
+
+.lt-icon-phone:before {
+  content: "\e905";
+}
+
+.lt-icon-skype:before {
+  content: "\e908";
+}
+
+.lt-icon-mail:before {
+  content: "\e902";
+}
+
+.lt-icon-linkedin:before {
+  content: "\e904";
+}
+
+.lt-icon-github:before {
+  content: "\e903";
+}
