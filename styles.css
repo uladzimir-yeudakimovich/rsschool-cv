@@ -1,0 +1,40 @@
+body {
+  padding: 15px;
+  margin: 15px;
+  font: normal 16px "Roboto", sans-serif;
+  color: white;
+  background: slategrey url(images/bg-contours.svg);
+}
+
+h1, h2, h3, header {
+  text-align: center;
+}
+
+header > p, ul {
+  text-align: justify;
+}
+
+div {
+  margin: 20px 0;
+}
+
+p, ul, li {
+  margin: 8px 0;
+}
+
+a {
+  text-decoration: none;
+  color: papayawhip;
+}
+
+.avatar {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 50%;
+}
+
+.employment_history {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
